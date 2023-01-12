@@ -1,0 +1,170 @@
+
+body {
+    background:gainsboro
+}
+.main{
+    background-color: yellow;
+    color: white;
+}
+.submain{
+ 
+    background-color: rgb(15, 150, 240);
+    border-bottom-left-radius: 25px;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+.borderight{
+    border-right: 1px solid white;
+}
+.fourth{
+    background-color:rgb(15, 150, 240) ;
+    border-bottom-left-radius: 35px;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgb(15, 150, 240)!important;
+    border-bottom-left-radius: 35px;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.line{
+    border-bottom: 1px solid;
+    padding-top: 9px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 9px;
+
+}
+.fr{
+    float: right;
+}
+
+.silderimg {
+    position: relative;
+    z-index: 1;
+    
+}
+
+.slidertext {
+    padding-left: 8em;
+    position: absolute;
+    z-index: 12;
+    top: 32%;
+}
+.card-title{
+    color: gray;
+}
+.ct{
+    color: black;
+}
+.card-text{
+    color: gray;
+}
+.y{
+    color: yellow;
+}
+.cat{
+    background-color: yellow;
+}
+.fifth{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.card1{
+    border-radius: 15px;
+}
+.lab{
+    font-weight: bold;
+}
+.left{
+    text-align: right;
+    color: gray;
+}
+.card-img{
+    height: 26.8em;
+
+
+}
+.six{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+.right{
+    text-align:right;
+}
+.strike{
+    color: grey;
+}
+.mix{
+  
+    background-color: white;
+}
+.mix2{
+    background-color: white;
+}
+.card-img-top1{
+    margin: 9px;
+    
+}
+.card{
+    border: none !important;
+}
+.card-img-top2{
+    margin: 12px;
+}
+.mix{
+    background-color: white;
+}
+mix2{
+    background-color: white;
+}
+.line1{
+    border-bottom: 1px solid;
+    padding-top: 9px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 9px;
+
+}
+.c{
+    background-color: rgb(187, 64, 64);
+    color: white;
+}
+.cardtenn{
+    background-color: white;
+    margin: 40px;
+
+}
+.eleven{
+    background-color: white;
+    
+    padding: 20px;
+}
+.ten{
+    background-color: white;
+}
+.btn-primary{
+    color: white;
+    
+}
+.nine{
+    background-color: white;
+}
+.doe{
+    color: rgb(193, 190, 190);
+}
+.card3{
+    padding: 15px;
+}
